@@ -1,3 +1,14 @@
+# 16-May-2025
+
+- Set thread to high CFS priority
+- Tune refresh rate timers
+- Enable frame rate override feature
+- Configure RefreshRate brightness thresholds
+- Set default refresh rate to 120Hz
+- Limit AOD & Ambient Display refresh rate to 48Hz
+- Increase status bar start padding
+- Use FUSE passthrough by default
+
 # 15-May-2025
 
 - Added support for hiding navigation bar from source side.
